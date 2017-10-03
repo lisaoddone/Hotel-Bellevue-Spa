@@ -1,0 +1,13 @@
+.bordo {
+	border: solid white 5px;
+}
+
+.grigio{
+	color: grey;
+	font-style: italic;
+}
+
+option, select{
+	color: black;
+}
+
